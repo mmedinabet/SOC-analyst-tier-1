@@ -1,4 +1,4 @@
-<h1>SIEM Detection and Response Workshop: Junior Analyst Edition</h1>
+<h1>SIEM Detection and Response: Junior Analyst Edition</h1>
 
 Start your day as a Junior Security Analyst by reviewing alerts and diving into security monitoring. Analyze network traffic, detect threats, and experience the thrill of incident response. Gain essential knowledge to become a proficient Network Defender.
 
