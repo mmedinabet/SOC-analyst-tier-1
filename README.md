@@ -11,7 +11,7 @@ Upon reviewing the SIEM alert, I observed a malicious IP address highlighted wit
 
 ![Screenshot 2024-04-14 2 19 27 PM](https://github.com/mmedinabet/SOC-analyst-tier-1/assets/142737434/f3aaf984-2872-4b00-9d25-5f6c7f5079a9)
 
-Websites provide the capability to verify the reputation of an IP address, aiding in identifying potential malicious or suspicious activity.
+Some Websites provide the capability to verify the reputation of an IP address, aiding in identifying potential malicious or suspicious activity.
 
 ![Screenshot 2024-04-14 2 22 19 PM](https://github.com/mmedinabet/SOC-analyst-tier-1/assets/142737434/9585e5d9-768f-4eff-80c7-cfe7d4f5bba1)
 
